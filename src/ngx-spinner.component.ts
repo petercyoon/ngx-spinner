@@ -56,7 +56,7 @@ export class NgxSpinnerComponent implements OnDestroy, OnInit, OnChanges {
    *
    * @memberof NgxSpinnerComponent
    */
-  showSpinner = false;
+  showSpinner = true;
 
   /**
    * Subscription variable for spinner
